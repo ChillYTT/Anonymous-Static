@@ -2,7 +2,7 @@
 
 Anonymous-Static is an easy to setup unblocker for you to deploy.
 
-## About Anonymous
+## About Anonymouss
 
 Anonymous was created by [Gage](https://github.com/oHeckGage), [Vortex](https://github.com/Vortexzzzz), and [Rena](https://github.com/renagamer101). It is supposed to be a super easy deployable proxy service for mass link creation and simplicity.
 
